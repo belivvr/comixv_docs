@@ -1,35 +1,17 @@
 ---
 sidebar_position: 1
+title: (COMXIXV) VR Webtoon Production Guide (ver2.3.3)
 ---
 
-# Tutorial Intro
+# (COMIXV)  VR Webtoon Production Guide (ver2.3.3)
 
-Let's discover **Docusaurus in less than 5 minutes**.
+<br/>
 
-## Getting Started
+## COMIXV VR Webtoon Production Guide (ver2.3.3)
 
-Get started by **creating a new site**.
+<br/>
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+>  This document is protected by copyright laws and contains material proprietary to the COMIXV. Any components may not be reproduced, republished, and distributed in any manner without the express prior permission of COMIXV. Contact us for any other permission. support@comixv.com
 
-## Generate a new site
+(comixv logo)
 
-Generate a new Docusaurus site using the **classic template**:
-
-```shell
-npm init docusaurus@latest my-website classic
-```
-
-## Start your site
-
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
