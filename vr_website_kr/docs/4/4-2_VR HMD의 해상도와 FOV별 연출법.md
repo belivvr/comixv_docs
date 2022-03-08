@@ -1,5 +1,4 @@
 ---
-sidebar_position: 2
 id: VR HMD의 해상도와 FOV별 연출법
 title: 4.2. VR HMD의 해상도와 FOV별 연출법
 ---
