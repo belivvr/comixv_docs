@@ -24,7 +24,6 @@ title: 0. Contents
      4.3.8. Effective Layout Flow: Continuous Events
   4.4. Tools for Creation
      4.4.1. Flexify
-       4.4.1.1. Flexify -Modifying Upper and Lower Angle -
      4.4.2. Photoshop 3D Workspace
      4.4.3. Sketchup + V-Ray
      4.4.4. 360-Degree Camera and Tracing
