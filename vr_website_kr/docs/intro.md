@@ -1,35 +1,19 @@
 ---
 sidebar_position: 1
+title: (코믹스브이) VR 웹툰 제작 가이드(ver2.3.3)
 ---
 
-# Tutorial Intro
+# (코믹스브이)  VR 웹툰 제작 가이드 (ver2.3.3)
 
-Let's discover **Docusaurus in less than 5 minutes**.
+<br/>
 
-## Getting Started
+## 코믹스브이 VR 웹툰 제작 가이드 (ver2.3.3)
 
-Get started by **creating a new site**.
+<br/>
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+>  본 문서는 코믹스브이에 저작권이 있으며, 교육용 자료로 배포한 자료로 무단 수정/배포를 불허 합니다. 사용이 필요한 경우 코믹스브이에 문의 부탁드립니다. support@comixv.com
 
-## Generate a new site
+<br/>
+<br/>
 
-Generate a new Docusaurus site using the **classic template**:
-
-```shell
-npm init docusaurus@latest my-website classic
-```
-
-## Start your site
-
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
+<img src="../images/intro~2/logo.jpg" height="40%" width="40%"/>
