@@ -26,3 +26,24 @@
 html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
+
+.navbar{
+  background-color: #1E2759;
+}
+.navbar__title{
+  color: #fff
+}
+
+.navbar__link{
+  color: #fff
+}
+
+.navbar__inner {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 0 auto;
+  max-width: 1400px;
+  position: relative;
+  width: 100%;
+}

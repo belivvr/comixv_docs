@@ -16,4 +16,4 @@ title: (코믹스브이) VR 웹툰 제작 가이드(ver2.3.3)
 <br/>
 <br/>
 
-<img src="../images/intro~2/logo.jpg" height="40%" width="40%"/>
+<img src="../../images/intro~2/logo.jpg" height="40%" width="40%"/>
