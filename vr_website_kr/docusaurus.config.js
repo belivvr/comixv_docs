@@ -9,7 +9,7 @@ const config = {
   title: 'VR웹툰',
   tagline: 'VR웹툰',
   url: 'https://vrwebtoon.belivvr.com',
-  baseUrl: '/',
+  baseUrl: '/docs/vrwebtoon-kr/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   // favicon: 'img/favicon.ico',
@@ -58,9 +58,9 @@ const config = {
         items: [
           {
             type: 'doc',
-            routeBasePath: '/doc/vrwebtoon_kr',
+            routeBasePath: '/doc',
             backgroundColor: '#1E2759',
-            docId: 'vrwebtoon_kr/intro',
+            docId: 'intro',
             position: 'right',
             label: 'Docs',
           },
